@@ -1,2 +1,2 @@
-# Kats Three Js Fun
+# Kats Three Js Cube
 
